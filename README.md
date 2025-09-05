@@ -8,4 +8,4 @@ as well as any other new things that come up that don't need to be in a browser.
 
 Clicking a link currently does nothing, depending on the page you are on. Some websites work flawlessly, but others do not work at all, for some reason. 
 
-Otherwise, it's got favorites, back and forth buttons, and refresh. No seperate tabs, yet. 
+Otherwise, it's got favorites, back and forth buttons, and refresh. No separate tabs, yet. 

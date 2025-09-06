@@ -8,7 +8,7 @@ Default search engine is Startpage.
 
 ## Known issues
 
-Clicking a link currently does nothing, depending on the page you are on. Some websites work flawlessly, but others do not work at all, for some reason. 
+Clicking a link currently does nothing, depending on the page you are on. Some websites work fine, but others do not work at all, for some reason. 
 
 Otherwise, it's got favorites, back and forth buttons, and refresh. No separate tabs, yet. 
 
